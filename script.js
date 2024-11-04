@@ -55,7 +55,7 @@ obtenerCarrito() {
 
 
 
-fetch ('http://jsonblob.com/api/1296354199548583936')
+fetch ('https://jsonblob.com/api/1296354199548583936')
 .then (respuesta => respuesta.json())
 .then (function(salida) {
 
